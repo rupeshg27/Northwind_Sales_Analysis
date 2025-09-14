@@ -73,9 +73,9 @@ A comprehensive Power BI dashboard analyzing sales data for strategic business i
 
 ## Contact
 
-**[Your Name]** - [your.email@domain.com]  
-**LinkedIn**: [Your LinkedIn Profile]  
-**Project Link**: [Repository URL]
+**Rupesh Gupta** - rg603929@gmail.com 
+**LinkedIn**: https://www.linkedin.com/in/rupesh-gupta-5b5b4022a/  
+**Project Link**: [https://github.com/rupeshg27/Northwind_Sales_Analysis]
 
 ---
 
