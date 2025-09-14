@@ -1,63 +1,85 @@
-📊 Northwind Traders – Sales Analytics
+# Northwind Traders - Business Analytics Dashboard
 
-👤 Author: Rupesh Gupta
+A comprehensive Power BI dashboard analyzing sales data for strategic business insights.
 
-🚀 Project Overview
+## Project Overview
 
-This project analyzes the Northwind Traders dataset, a global food import-export business. Using SQL, Excel, and Power BI, I transformed raw data into interactive dashboards and insights to support better decision-making.
+**Northwind Traders** is a specialty food import/export company analysis project using advanced SQL and Power BI to generate actionable business insights.
 
-🎯 Objectives
+**Key Metrics:**
+- **Revenue**: $1.35M across 830 orders
+- **Customers**: 91 customers in 21 countries  
+- **Top Categories**: Beverages ($286K), Dairy Products ($251K)
+- **Average Order Value**: $1,630
 
-Track sales performance across products, categories, and time
+## Database Tables
 
-Understand customer behavior & top-value clients
+| Table | Records | Description |
+|-------|---------|-------------|
+| Customers | 91 | Customer information and locations |
+| Orders | 830 | Order transactions |
+| Order_Details | 2,155 | Product line items |
+| Products | 77 | Product catalog (8 categories) |
+| Employees | 9 | Sales team performance |
 
-Monitor inventory & suppliers
+## Dashboard Screenshots
 
-Measure employee productivity
+### Executive Summary Dashboard
+![Summary Dashboard](<img width="1288" height="722" alt="Screenshot 2025-09-10 235005" src="https://github.com/user-attachments/assets/3c315aa0-ba4d-4b67-b57c-952c5f237dce" />
+)
 
-Optimize shipping efficiency
+### Sales Performance Analysis
+![Sales Dashboard](<img width="1315" height="729" alt="Screenshot 2025-09-10 235033" src="https://github.com/user-attachments/assets/8c101f9e-9748-4792-847b-e72557b8bc45" />
+)
 
-🛠 Tools Used
+### Customer Segmentation
+![Customer Dashboard](images/customer_dashboard.png)
 
-SQL (MySQL Workbench) → EDA & queries
+### Employee Performance
+![Employee Dashboard](images/employee_dashboard.png)
 
-Excel → Pivot tables & visuals
+## Key Business Insights
 
-Power BI → Dashboards & KPIs
+- **Top Customers**: QUICK-Stop ($117K), Save-a-lot Markets ($116K), Ernst Handel ($113K)
+- **Seasonal Trends**: Q3 shows significant decline requiring targeted marketing
+- **Employee Leader**: Margaret handles 156 orders (highest performance)
+- **Inventory Alert**: 18 products need immediate restocking
 
-MS Word & PPT → Report & Presentation
+## Technologies Used
 
-📊 Key Insights
+- **SQL Server** - Advanced queries (CTEs, Window Functions)
+- **Power BI** - Interactive dashboards and visualizations
+- **Excel** - Supplementary analysis and reporting
 
-Beverages & Dairy = top revenue categories
+## Key Features
 
-Repeat customers drive most sales
+- 6 interactive Power BI dashboards
+- Advanced SQL analysis with business insights
+- Customer segmentation and behavior analysis
+- Sales performance tracking across categories
+- Operational efficiency metrics
 
-Clear seasonal demand trends in orders
+## Strategic Recommendations
 
-Shipping time & costs vary by shipper
+1. **Customer Retention Program** for top 10 high-value customers
+2. **Inventory Optimization** for 18 low-stock items  
+3. **Geographic Expansion** in underperforming markets
+4. **Seasonal Marketing** to address Q3 revenue decline
 
-Employee performance differs across regions
+## Files Included
 
-📈 Deliverables
+- `dashboards/` - Power BI dashboard files (.pbix)
+- `sql-queries/` - Advanced SQL analysis queries
+- `reports/` - Comprehensive business analysis report
+- `images/` - Dashboard screenshots and visualizations
 
-✔️ Word Report – Analysis & business insights
-✔️ Power BI Dashboards – Sales, Customers, Inventory, Employees, Shipping, Summary
-✔️ EDA (SQL + Excel) – Queries & charts
-✔️ PPT Presentation – Project summary
-✔️ Video Walkthrough – Watch here
+## Contact
 
-📑 Repo Structure
+**[Your Name]** - [your.email@domain.com]  
+**LinkedIn**: [Your LinkedIn Profile]  
+**Project Link**: [Repository URL]
 
-📂 Report/       → Word report  
-📂 PowerBI/      → Dashboards (.pbix)  
-📂 Excel_EDA/    → Excel analysis  
-📂 SQL_Scripts/  → SQL queries  
-📂 PPT/          → Presentation slides  
-📂 Screenshots/  → Dashboard visuals  
-README.md        → Project overview
+---
 
-✅ Conclusion
+**Skills Demonstrated**: Advanced SQL, Power BI, Data Analysis, Business Intelligence, Strategic Planning
 
-By combining SQL + Excel + Power BI, this project delivers a 360° view of sales, customers, inventory, employees, and shipping. These insights help Northwind Traders stay competitive in the wholesale market.
