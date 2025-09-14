@@ -25,17 +25,16 @@ A comprehensive Power BI dashboard analyzing sales data for strategic business i
 ## Dashboard Screenshots
 
 ### Executive Summary Dashboard
-![Summary Dashboard]()
+![Summary Dashboard](images/Summary_dashboard.png)
 
 ### Sales Performance Analysis
-![Sales Dashboard](<img width="1315" height="729" alt="Screenshot 2025-09-10 235033" src="https://github.com/user-attachments/assets/8c101f9e-9748-4792-847b-e72557b8bc45" />
-)
+![Sales Dashboard](images/Sales_dashboard.png)
 
 ### Customer Segmentation
 ![Customer Dashboard](images/CustomerSegmentation.png)
 
 ### Employee Performance
-![Employee Dashboard](images/employee_dashboard.png)
+![Employee Dashboard](images/Employee_Performance.png)
 
 ## Key Business Insights
 
